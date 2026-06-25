@@ -35,9 +35,9 @@ A regression project to predict house prices based on property features, compari
 ![Actual vs Predicted](actual_vs_predicted.png)
 
 ### Model Comparison
-![Feature Distributions](distributio.png)
+![Feature Distributions](distribution.png)
 
-### Model Comparison
+### Residual plots
 ![Residuals](residuals.png)
 
 ## Dataset
