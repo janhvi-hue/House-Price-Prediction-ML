@@ -24,4 +24,4 @@ A regression project to predict house prices based on property features, compari
 - `house_price_prediction.ipynb` — Full notebook with EDA, feature engineering, model training, and evaluation
 
 ## Dataset
-*(Add dataset source/link here)*
+california house price dataset
