@@ -28,13 +28,13 @@ A regression project to predict house prices based on property features, compari
 ### Correlation Heatmap
 ![Correlation Heatmap](correlation_heatmap.png)
 
-### Feature Distributions
+### Model Comparison
 ![Model_comaprison](feature_importance.png)
 
 ### Actual vs. Predicted Prices
 ![Actual vs Predicted](actual_vs_predicted.png)
 
-### Model Comparison
+### Feature Distributions
 ![Feature Distributions](distributions.png)
 
 ### Residual plots
