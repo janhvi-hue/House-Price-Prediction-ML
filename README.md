@@ -26,16 +26,19 @@ A regression project to predict house prices based on property features, compari
 ## Screenshots
 
 ### Correlation Heatmap
-![Correlation Heatmap](screenshots/correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png)
 
 ### Feature Distributions
-![Feature Distributions](screenshots/feature_distributions.png)
+![Model_comaprison](feature_importance.png)
 
 ### Actual vs. Predicted Prices
-![Actual vs Predicted](screenshots/actual_vs_predicted.png)
+![Actual vs Predicted](actual_vs_predicted.png)
 
 ### Model Comparison
-![Model Comparison](screenshots/model_comparison.png)
+![Feature Distributions](distributio.png)
+
+### Model Comparison
+![Residuals](residuals.png)
 
 ## Dataset
-*(Add dataset source/link here)*
+California house dataset
